@@ -1,0 +1,13 @@
+1. Creating components
+2. Using react and native javascript features
+3. Display dynamic content and output dynamic content
+4. Styling of components
+    - Inline style
+    - Importing .css file based style
+
+More on styling in this section
+1. Dynamic adjustment of style or classnames
+2. Dealing restrictions of inline style or scoped style 
+    - not being able to use media queries or pseudo selectors
+    - using css files and having global styles
+
